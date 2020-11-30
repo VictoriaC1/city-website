@@ -1,15 +1,25 @@
 body{
 	margin 0;
 font-family: "Courier New", Courier, monospace;
+background-color: black; 
+font-size: 15px; 
+line-height: 30px;
 }
 header{ 
 	text-align: center;
 	padding top: 50px; 
  	padding-bottom: 20px;
+
+ }
+ header h1 
+ {
+ 	font-size: 70px;
  }
  h1,h2
  {
  	font-family: "Lucida Console", Monaco, monospace;
+ 	font-size: 30px;
+ 	color: #73C6B6;
 
  }
  header img{
@@ -18,20 +28,38 @@ header{
  }
 
  
- header h1
- {
- 	color: #1F618D; 
- 	font-size: 50px; 
- 	 
- }
  main 
+
  { max-width: 900px; 
  	margin: 0 auto; 
-  
+ 	padding: 0 20px; 
+  color: white;
+
 
  }
- main img{
+ main img
+ {
  	max-width: 100%; 
+
  }
+ a{
+ 	color: white;
+ 	
+ }
+ a:hover {
+ 	color: #73C6B6;
+
+
+ }
+ footer
+ {
+ 		text-align: center;
+	padding top: 50px; 
+ 	padding-bottom: 20px;
+ 	color: white;
+ 	font-size: 10px; 
+ }
+ 
+
 
  
