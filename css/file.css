@@ -1,0 +1,37 @@
+body{
+	margin 0;
+font-family: "Courier New", Courier, monospace;
+}
+header{ 
+	text-align: center;
+	padding top: 50px; 
+ 	padding-bottom: 20px;
+ }
+ h1,h2
+ {
+ 	font-family: "Lucida Console", Monaco, monospace;
+
+ }
+ header img{
+ 	border-radius: 250px; 
+ 	width: 900px; 
+ }
+
+ 
+ header h1
+ {
+ 	color: #1F618D; 
+ 	font-size: 50px; 
+ 	 
+ }
+ main 
+ { max-width: 900px; 
+ 	margin: 0 auto; 
+  
+
+ }
+ main img{
+ 	max-width: 100%; 
+ }
+
+ 
